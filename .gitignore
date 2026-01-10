@@ -1,0 +1,9 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+
+# Archivos temporales
+__pycache__/
+*.pyc
